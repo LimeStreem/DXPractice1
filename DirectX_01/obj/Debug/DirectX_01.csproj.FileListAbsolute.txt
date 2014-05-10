@@ -1,0 +1,9 @@
+c:\users\limestreem\documents\visual studio 2013\Projects\DirectX_01\DirectX_01\bin\Debug\DirectX_01.exe.config
+c:\users\limestreem\documents\visual studio 2013\Projects\DirectX_01\DirectX_01\bin\Debug\DirectX_01.exe
+c:\users\limestreem\documents\visual studio 2013\Projects\DirectX_01\DirectX_01\bin\Debug\DirectX_01.pdb
+c:\users\limestreem\documents\visual studio 2013\Projects\DirectX_01\DirectX_01\bin\Debug\SlimDX.dll
+c:\users\limestreem\documents\visual studio 2013\Projects\DirectX_01\DirectX_01\obj\Debug\DirectX_01.csprojResolveAssemblyReference.cache
+c:\users\limestreem\documents\visual studio 2013\Projects\DirectX_01\DirectX_01\obj\Debug\DirectX_01.Properties.Resources.resources
+c:\users\limestreem\documents\visual studio 2013\Projects\DirectX_01\DirectX_01\obj\Debug\DirectX_01.csproj.GenerateResource.Cache
+c:\users\limestreem\documents\visual studio 2013\Projects\DirectX_01\DirectX_01\obj\Debug\DirectX_01.exe
+c:\users\limestreem\documents\visual studio 2013\Projects\DirectX_01\DirectX_01\obj\Debug\DirectX_01.pdb
